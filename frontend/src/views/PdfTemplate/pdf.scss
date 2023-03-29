@@ -1,0 +1,25 @@
+.pdf{
+    font-family: sans-serif;
+    .paragraph{
+        font-size: 13px;
+    }
+    .description{
+        font-size: 11px;
+    }
+    .mt-3{
+        margin-top: 1em;
+    }
+    .mt-2{
+        margin-top: 0.5em;
+    }
+    .mb-4{
+        margin-bottom: 2em;
+    }
+    .dme{
+        float: right;
+        p{
+            text-align: left;
+            font-size: 9px;
+        }
+    }
+}
