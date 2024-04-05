@@ -169,11 +169,6 @@ We use GitHub Issues as the official bug tracker for the Light Bootstrap Dashboa
 
 If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=lbdr-readme) instead of opening an issue.
 
-## Licensing
-
-- Copyright 2018 Creative Tim (https://www.creative-tim.com?ref=lbdr-readme)
-- Licensed under MIT (https://github.com/creativetimofficial/light-bootstrap-dashboard-react/blob/master/LICENSE.md)
-
 ## Useful Links
 
 More products from Creative Tim: <https://www.creative-tim.com/products?ref=lbdr-readme>
